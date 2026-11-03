@@ -2,62 +2,97 @@
 
 # Marcelo
 
-### AI Governance · Cloud Security · Internal Audit
+### IT Auditor · Cloud Governance · AI for Risk & Compliance
 
-**Construyo herramientas abiertas que convierten control, riesgo y cumplimiento en soluciones prácticas con IA.**
+**I build practical open-source tools that help teams turn technology risk, controls, and compliance into actionable insight.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-@marcelinero-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcelinero)
-[![Python](https://img.shields.io/badge/Python-Projects-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/marcelinero?tab=repositories)
-[![AWS](https://img.shields.io/badge/AWS-Governance-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/marcelinero/cloud-governance-agent)
+[![AWS](https://img.shields.io/badge/AWS-Cloud%20Governance-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/marcelinero/cloud-governance-agent)
+[![Python](https://img.shields.io/badge/Python-Projects-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/marcelinero?tab=repositories)
+[![MCP](https://img.shields.io/badge/MCP-AI%20Workflows-5B8CFF?style=flat-square)](https://github.com/marcelinero/auditoria-skills-mcp)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Practical%20by%20Design-2E8B57?style=flat-square&logo=github&logoColor=white)](https://github.com/marcelinero?tab=repositories)
 
 </div>
 
 ---
 
-## Perfil
+## Profile
 
-Trabajo en la intersección de **auditoría interna, gobernanza cloud e inteligencia artificial**. Me interesa crear soluciones abiertas, claras y útiles para fortalecer la gestión de riesgos, la seguridad y el cumplimiento.
+IT engineer and auditor with **15 years of experience** across internal audit, IT controls, risk, security, and technology governance.
 
-## Proyectos destacados
+I work at the intersection of **internal audit, cloud security, and AI**—building transparent, practical tools that help teams assess risk and strengthen governance.
+
+**What I bring**
+- Internal audit, IT controls, and risk-based thinking
+- AWS governance, security, and cost optimization
+- Python automation and serverless architecture
+- AI and MCP workflows for audit and compliance use cases
+- Clear documentation and open-source project development
+
+---
+
+## Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>☁️ Cloud Governance Agent</h3>
-      <p>Agente de gobernanza para auditoría continua, seguridad y optimización de costos en AWS.</p>
-      <a href="https://github.com/marcelinero/cloud-governance-agent">Explorar proyecto →</a>
+      <p>Serverless AWS audit agent for continuous security, compliance, and FinOps checks.</p>
+      <p><code>Python</code> · <code>AWS CDK</code> · <code>Lambda</code> · <code>CloudWatch</code></p>
+      <a href="https://github.com/marcelinero/cloud-governance-agent">Explore the project →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧩 Auditoría Skills MCP</h3>
-      <p>Servidor MCP con habilidades de auditoría interna, instalable con <code>uvx</code>.</p>
-      <a href="https://github.com/marcelinero/auditoria-skills-mcp">Explorar proyecto →</a>
+      <p>MCP server exposing 20 internal-audit skills grounded in recognized frameworks and standards.</p>
+      <p><code>Python</code> · <code>MCP</code> · <code>AI workflows</code></p>
+      <a href="https://github.com/marcelinero/auditoria-skills-mcp">Explore the project →</a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3>📚 Auditoría Skills</h3>
-      <p>Catálogo abierto de habilidades para auditores, basado en marcos y estándares internacionales.</p>
-      <a href="https://github.com/marcelinero/auditoria-skills">Ver catálogo →</a>
+      <p>Open catalog of audit skills covering cross-functional processes and specialist domains, aligned with frameworks such as IIA, COSO, NIST, ISO, COBIT, and ACFE.</p>
+      <a href="https://github.com/marcelinero/auditoria-skills">Browse the catalog →</a>
     </td>
   </tr>
 </table>
 
-## Áreas de interés
+---
 
-`AI Governance` · `Cloud Security` · `Internal Audit` · `Risk Management` · `AWS` · `MCP`
+## Engineering in practice
 
-## En qué estoy trabajando
+The Cloud Governance Agent includes modular security, compliance, and FinOps checks, with AWS CDK infrastructure and documented deployment steps.
 
-- Aplicar IA y agentes a procesos de auditoría y gestión de riesgos.
-- Diseñar herramientas de gobernanza y seguridad para entornos cloud.
-- Compartir recursos abiertos y prácticos para profesionales de auditoría.
+In a **sample-infrastructure run**, it reported **57 findings** across security, compliance, and FinOps. The example estimates **$39.68/month in potential savings**; this is a demo result, not a general or guaranteed saving.
 
-## Contacto
+[See the sample report and project details →](https://github.com/marcelinero/cloud-governance-agent)
 
-¿Te interesa colaborar o conversar sobre estos temas? **[Abre una discusión en uno de mis proyectos](https://github.com/marcelinero/auditoria-skills-mcp/discussions)** o explora mis [repositorios](https://github.com/marcelinero?tab=repositories).
+---
+
+## Technical focus
+
+`Python` · `AWS` · `AWS CDK` · `Serverless` · `MCP` · `AI Governance` · `Cloud Security` · `Internal Audit` · `Risk Management` · `FinOps`
+
+---
+
+## Principles
+
+- **Security and governance by design**
+- **Evidence over unsupported claims**
+- **Clear documentation and transparent assumptions**
+- **Practical tools for real audit and risk workflows**
+- **Open source with purpose**
+
+---
+
+## Connect
+
+Interested in cloud governance, audit automation, AI risk, or open-source collaboration?
+
+- Browse my [repositories](https://github.com/marcelinero?tab=repositories)
+- Start a conversation in [Auditoría Skills MCP discussions](https://github.com/marcelinero/auditoria-skills-mcp/discussions)
 
 <div align="center">
 
-*Gobernanza y seguridad desde el diseño. Tecnología con propósito.*
+*Governance and security by design. Technology with purpose.*
 
 </div>
