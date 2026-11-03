@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**marcelinero/marcelinero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Marcelo 👋
 
-Here are some ideas to get you started:
+### Auditoría · Gobernanza cloud · Inteligencia artificial
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Creo herramientas abiertas que conectan auditoría, gestión de riesgos y tecnología.
+
+[![GitHub](https://img.shields.io/badge/GitHub-marcelinero-181717?style=flat&logo=github)](https://github.com/marcelinero)
+
+</div>
+
+---
+
+## 🚀 Proyectos destacados
+
+- **[Cloud Governance Agent](https://github.com/marcelinero/cloud-governance-agent)**  
+  Agente de gobernanza cloud para auditoría continua, seguridad y optimización de costos en AWS.
+
+- **[Auditoría Skills MCP](https://github.com/marcelinero/auditoria-skills-mcp)**  
+  Servidor MCP con habilidades de auditoría interna, instalable con `uvx`.
+
+- **[Auditoría Skills](https://github.com/marcelinero/auditoria-skills)**  
+  Catálogo abierto de habilidades para auditores, basado en marcos y estándares internacionales.
+
+## 🧭 En qué estoy trabajando
+
+- Aplicaciones de IA para auditoría y gestión de riesgos.
+- Gobernanza, seguridad y cumplimiento en la nube.
+- Herramientas abiertas para profesionales de auditoría.
+
+## 📫 Encuéntrame
+
+Explora mis proyectos y no dudes en abrir una discusión o issue en el repositorio correspondiente.
